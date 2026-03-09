@@ -1,0 +1,50 @@
+[ 2026-03-06 17:07:06 - main.py  - INFO ]: 
+model:TSMixerx
+epoch:1000
+batch_size:64
+loss func:MSE
+lr:0.01
+mormal method:minmax
+time cost:49.9s
+score:0.4949937661277645
+
+[ 2026-03-06 17:13:51 - main.py  - INFO ]: 
+model: TSMixerx
+epoch: 1000
+batch_size: 128
+loss func: MSE
+lr: 0.01
+mormal method: minmax
+time cost: 1m:31.74s
+score: 0.49098051357123595
+
+[ 2026-03-06 17:18:15 - main.py  - INFO ]: 
+model: TSMixerx
+epoch: 1000
+batch_size: 256
+loss func: MSE
+lr: 0.01
+mormal method: minmax
+time cost: 2m:51.43s
+score: 0.5348118932466192
+
+[ 2026-03-06 17:25:11 - main.py  - INFO ]: 
+model: TSMixerx
+epoch: 1000
+batch_size: 512
+loss func: MSE
+lr: 0.01
+mormal method: minmax
+time cost: 5m:59.23s
+score: 0.49620991192420105
+
+[ 2026-03-06 17:28:58 - main.py  - INFO ]: 
+model: TSMixerx
+epoch: 500
+batch_size: 512
+loss func: MSE
+lr: 0.01
+mormal method: minmax
+time cost: 3m:3.82s
+score: 0.85518772842628
+
