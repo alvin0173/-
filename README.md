@@ -1,4 +1,4 @@
-# - DNN version env requirement
+DNN version env requirement
 ### numpy==1.26.4
 ### pandas==2.2.3
 ### neuralforecast==1.7.7
